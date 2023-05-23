@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Nelson Medel</h1>
-<h3 align="center">Diseñador Web y Analista de Datos</h3>
+<h3 align="center">Diseñador y Programador Web </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
